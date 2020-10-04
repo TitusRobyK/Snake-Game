@@ -1,5 +1,5 @@
-let beepSound = new Audio("../assets/success.mp3");
-let failSound = new Audio("../assets/fail.mp3");
+let beepSound = new Audio("assets/success.mp3");
+let failSound = new Audio("assets/fail.mp3");
 let gridSize = 20;
 let tileCount = 20;
 let fruitPositionX = 15;
