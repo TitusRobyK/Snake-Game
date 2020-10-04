@@ -1,4 +1,4 @@
-## Snake-Game
+### Snake-Game
 Basic Snake Game created using HTML &amp; JavaScript
 
 #### Deploy the same into your Netlify Account 
